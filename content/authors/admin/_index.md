@@ -1,48 +1,45 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Data Scientist at University Medical Center Utrecht
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Cognitive Neuroscience
+    institution: University of Amsterdam
+    year: 2019
+  - course: MSc in Brain and Cognitive Sciences
+    institution: University of Amsterdam
+    year: 2014
+  - course: BSc in Natural and Social Sciences
+    institution: University of Amsterdam
+    year: 2011
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Clinical Prediction Models
+- Natural Language Processing
+- Open Science
 organizations:
-- name: Stanford University
+- name: University Medical Center Utrecht
   url: ""
-role: Professor of Artificial Intelligence
+role: Data Scientist
 social:
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/LeonReteig
+- icon: github
+  icon_pack: fab
+  link: https://github.com/lcreteig
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=JM96ebEAAAAJ&hl
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Leon Reteig
 user_groups:
-- Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a data scientist and post-doctoral researcher at the [Central Diagnostic Laboratory](https://www.umcutrecht.nl/nl/ziekenhuis/centraal-diagnostisch-laboratorium) of the University Medical Center Utrecht, which conducts all laboratory tests (e.g. blood samples) in the hospital. My work focuses on using such data collected during routine care to make diagnostic prediction models. I am also interested in text mining to extract and leverage information from the electronic health record.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before switching to data science in the medical domain, I was a PhD student in the [Cognition and Plasticity lab](https://www.heleenslagter.com/) of Prof. Heleen Slagter, funded by an NWO Research Talent grant. My PhD research focused on improving  attention through electrical stimulation of the brain. During my PhD I became a strong supporter of open science principles, and I still strive to make my work as transparent and reproducible as possible.
