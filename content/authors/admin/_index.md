@@ -29,6 +29,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/lcreteig
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/leon-reteig
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=JM96ebEAAAAJ&hl
