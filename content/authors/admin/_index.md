@@ -1,7 +1,8 @@
 ---
 authors:
 - admin
-bio: Data Scientist at University Medical Center Utrecht
+bio: I am a medical data scientist and researcher working on diagnostic predictive models. Previously, I completed a PhD degree in cognitive neuroscience. I love communicating about my research through writing, beautiful data visualizations, and open science.
+
 education:
   courses:
   - course: PhD in Cognitive Neuroscience
