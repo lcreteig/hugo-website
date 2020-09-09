@@ -1,0 +1,11 @@
+# Font style metadata
+name = "leon"
+
+# Optional Google font URL
+google_fonts = "family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&family=Roboto+Mono&family=Roboto:wght@400;500"
+
+# Font families
+heading_font = "Roboto"
+body_font = "Open Sans"
+nav_font = "Open Sans"
+mono_font = "Roboto Mono"
