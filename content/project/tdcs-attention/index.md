@@ -41,3 +41,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+"Attention" can be broadly characterized as the ability to focus on what is relevant, and to ignore what is not. Ww call upon this ability in every waking moment, as the sheer amount of information available to us far exceeds our capacity to process it all.
+
+Because attention is so crucial, there is a longstanding interest in the question whether it is possible to enhance attention. In this project---the main focus of my PhD work---I studied whether non-invasive electrical stimulation of the brain could be used for this purpose. A good starting point for further information is the [review article](../../publication/review-tes-attention/) we wrote on this topic.
