@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Enhancing attention with electrical brain stimulation"
-summary: "The main focus of my PhD work"
+summary: "The main focus of my PhD work."
 authors: []
 tags: 
 - PhD projects
